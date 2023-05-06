@@ -1,0 +1,8 @@
+com\amazonaws\lambda\demo\Axis.class
+com\amazonaws\lambda\demo\Color.class
+com\amazonaws\lambda\demo\DatabaseAccessor.class
+com\amazonaws\lambda\demo\Tile.class
+com\amazonaws\lambda\demo\Pattern.class
+com\amazonaws\lambda\demo\Board.class
+com\amazonaws\lambda\demo\QwirkleFunctionHandler.class
+com\amazonaws\lambda\demo\Shape.class
